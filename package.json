@@ -132,7 +132,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/stencil.git"
+    "url": "git+https://github.com/firecatapult/stencil.git"
   },
   "author": "Ionic Team",
   "homepage": "https://stenciljs.com/",
