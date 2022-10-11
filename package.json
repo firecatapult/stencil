@@ -134,6 +134,9 @@
     "type": "git",
     "url": "git+https://github.com/firecatapult/stencil.git"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
   "author": "Ionic Team",
   "homepage": "https://stenciljs.com/",
   "description": "A Compiler for Web Components and Progressive Web Apps",
