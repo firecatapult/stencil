@@ -135,7 +135,7 @@
     "url": "git+https://github.com/firecatapult/stencil.git"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com/firecatapult"
   },
   "author": "Ionic Team",
   "homepage": "https://stenciljs.com/",
